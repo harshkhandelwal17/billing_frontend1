@@ -1223,8 +1223,8 @@ const RestaurantBillingSystem = () => {
           </div>
         </div>
       </div>
-    </div>
-  );
+    );
+  };
 
   if (loading) {
     return (
