@@ -129,7 +129,7 @@ const LoadingScreen = () => (
           <CheckCircle className="w-4 h-4 text-white" />
         </div>
       </div>
-      <h2 className="text-2xl font-bold text-gray-800 mb-2">RestaurantPOS</h2>
+      <h2 className="text-2xl font-bold text-gray-800 mb-2">Usalwala</h2>
       <p className="text-gray-600 mb-8">Professional Billing System</p>
       <LoadingSpinner size="large" text="Initializing..." />
     </div>
